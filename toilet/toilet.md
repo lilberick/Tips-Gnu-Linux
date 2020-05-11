@@ -17,7 +17,7 @@
    ```
    ![](./img/3.png)
 
-4. Con borde con las letras al revés de derecha a izqueirda
+4. Con borde con las letras al revés de derecha a izquierda
    ```
    $ toilet -f smblock --filter border:metal:flip Linux
    ```
