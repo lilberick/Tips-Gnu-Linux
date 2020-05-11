@@ -36,7 +36,7 @@
    ```
    $ scanimage -x 100 -y 100 >1.pdf
    ```
-10. (-l=top left x)(-t=top left y)
+10. (-l=top left x) (-t=top left y)
    ```
    $ scanimage -l 0mm -t 0mm >1.pdf
    ```
@@ -73,10 +73,10 @@
       ```
       #!/bin/bash
       for i in {1..1000}
-      	do
+         do
     		read -p "Escaneo numero $i"
     		scanimage --resolution 300  | convert - $i.jpg
-  	done 
+         done 
       ```
     * Le damos permisos de ejecución al script
       ```
