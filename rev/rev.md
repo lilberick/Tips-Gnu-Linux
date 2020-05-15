@@ -24,4 +24,4 @@
      ```
      $ rev texto.txt
      ```
-     ![](./img/4.png)
+     ![](./img/5.png)
