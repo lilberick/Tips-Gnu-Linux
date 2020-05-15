@@ -11,7 +11,8 @@
    ```
    $ sudo dd bs=4M if=/dev/mmcblk0 of=/media/MiUsb/raspbian.img status=progess conv=fsync
    ```
-3. Listo! Ya tenemos una copia de seguridad del sistema operativo que tiene la microSD de nuestra Raspberry Pi, guardando en: raspbian.img
+   <br>
+3. Listo! Ya tenemos una copia de seguridad del sistema operativo que tiene la microSD de nuestra Raspberry Pi, guardando en: raspbian.img <br><br>
 4. S iqueremos copiar la copia de seguridad que hicimos a otra microSD
    ```
    $ sudo dd bs=4M if=/media/miUSB/raspbian.img of=/dev/sdb status=progress conv=fsync 
