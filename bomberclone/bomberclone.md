@@ -8,14 +8,14 @@
    ```
    $ bomberclone
    ```
-   * Esta es la ventana inicial<br>
+   * Esta es la ventana inicial  
      ![](./img/2.png) 
 
 
-   * Elije a tu personaje<br>
+   * Elije a tu personaje  
      ![](./img/3.png) 
 
  
-   * Intenta ganar a tu adversario poniendo unas bombitas<br>
+   * Intenta ganar a tu adversario poniendo unas bombitas  
      ![](./img/4.png) 
 
