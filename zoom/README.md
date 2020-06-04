@@ -1,6 +1,6 @@
 # Videollamadas con zoom :computer: :phone: :iphone: :telephone_receiver: :speaker:
 ## Instalación de Zoom en Debian (Gnu/Linux)
-1. Descargo desde la pagina principal de zoom  
+1. Descargo desde la página principal de zoom  
 	[Click para ir a la página de descarga](https://zoom.us/download "Dale click papu")  
 ![1.png](img/1.png)
 2. Aquí ya lo tengo descargado  
