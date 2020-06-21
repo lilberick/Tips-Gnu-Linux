@@ -1,5 +1,5 @@
 # sane + hplip: Usar tu impresora escáner HP para escanear usando la terminal de una Raspberry Pi
->**[Clic para ver el video tutorial](https://www.youtube.com/watch?v=W6Qe1dYgHRA "Clic para vel el video tutorial")**
+>**[Clic para ver el video tutorial](https://www.youtube.com/watch?v=W6Qe1dYgHRA "Clic para vel el video tutorial")**  
 ![](./img/1.png)
 1. Instalación  
 	```
@@ -56,22 +56,22 @@
 	$ scanimage | convert --resize 50% imagen.jpg
 	```
 13. Resoluciones  
-	* Muy buena   
+	* Muy buena  
 		```
-		$ scanimage --resolution 300 | convert - imagen.png
+		$ scanimage --resolution 300 | convert - imagen.png  
 		```  
-	* Regular   
-     		```
+	* Regular  
+		```
 		$ scanimage --resolution 200 | convert - imagen.png  
+		```  
+	* Mala  
 		```
-	* Mala   
-		```
-		$ scanimage --resolution 100 | convert - imagen.png  
+		$ scanimage --resolution 100 | convert - imagen.png   
 		```
 
 14. Script para escanear una y otra vez cuando presionemos la tecla ENTER  
 	* Este es el contenido del script: **scan.sh**  
-      		```
+		```
 		#!/bin/bash
       		for i in {1..1000}
          		do
@@ -81,11 +81,11 @@
 		```
 	* Le damos permisos de ejecución al script  
 		```
-      		$ chmod +x scan.sh
+		$ chmod +x scan.sh
 		```
 	* Ejecutar el script  
 		```
-      		$ ./scan.sh
+		$ ./scan.sh
 		```
 		![](./img/6.png)
  
