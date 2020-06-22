@@ -1,6 +1,6 @@
 # Telegram
 ![](.img/1.png)
-## Instalación: tenemos 2 formas  
+## Instalación en una Raspberry Pi: tenemos 2 formas  
 * Desde los repositorios  
 	```
 	$ sudo apt install telegram-desktop
