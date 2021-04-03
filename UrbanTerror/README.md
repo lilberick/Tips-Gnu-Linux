@@ -35,6 +35,10 @@
 
 	![](.img/Inicio2.png)
 
-4. Seleccionamos un servidor para empezar a jugar
+4. clic en: **Get New List**
 
-	![](.img/servers.jpg)
+	![](.img/servidor2.png)
+
+5. Seleccionamos un servidor para empezar a jugar
+
+	![](.img/servidor1.png)
