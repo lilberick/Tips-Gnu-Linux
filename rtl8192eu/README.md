@@ -10,7 +10,7 @@
 
 1. Este es el driver de mi usb wifi que necesito
 
-	![](.img/lsusb.png)
+	![](.img/lsusb1.png)
 
 2. Veo la versión del kernel 
 
