@@ -30,4 +30,3 @@ Shortcut	| Descripción
 \ll			| compilar
 \lk			| detener compilacion
 \lc			| limpiar archivos auxiliares
-```
