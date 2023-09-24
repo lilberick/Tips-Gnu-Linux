@@ -11,4 +11,4 @@ CarguioSimple
 |__ pala.png
 ```
 
-[![](https://markdown-videos.deta.dev/https://www.youtube.com/watch?v=Px4GHgnrj1A)](https://youtu.be/Px4GHgnrj1A)
+[![](https://markdown-videos.deta.dev/youtube/Px4GHgnrj1A)](https://youtu.be/Px4GHgnrj1A)
