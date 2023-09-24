@@ -10,4 +10,5 @@ CarguioSimple
 |__ CarguioSimple.cfg
 |__ pala.png
 ```
-[![Simulación con JAAMSIM](./img/1.png)](https://youtu.be/Px4GHgnrj1A)
+
+[![](https://markdown-videos.deta.dev/https://www.youtube.com/watch?v=Px4GHgnrj1A)](https://youtu.be/Px4GHgnrj1A)
